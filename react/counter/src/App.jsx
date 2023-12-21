@@ -7,7 +7,11 @@ function App()
   const [value, setvalue] = useState(5)
   const addValue = () =>
   {
-    setvalue(value + 1)
+    setvalue(prev => prev + 1)
+    setvalue(prev => prev + 1)
+    setvalue(prev => prev + 1)
+    setvalue(prev => prev + 1)
+
 
   }
 
