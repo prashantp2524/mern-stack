@@ -1,2 +1,6 @@
 ******************************React js*************************************
-evaluation expression => {nam e}
+evaluation expression => {name}
+
+createRoot : DOM
+
+tailwind:devui ui library
