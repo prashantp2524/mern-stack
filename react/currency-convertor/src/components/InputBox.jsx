@@ -15,8 +15,8 @@ const InputBox = ({
     const amountInputId = useId()
     // console.log(currencyOptions)
     return (
-        <div className='shadow-lg'>
-            <div className='row bg-white p-3'>
+        <div className='shadow-lg '>
+            <div className='row bg-white p-3 rounded-3'>
                 <div className='col'>
                     <div className="mb-3">
                         <label htmlFor={amountInputId} className="form-label">{label}</label>
