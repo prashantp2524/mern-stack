@@ -10,6 +10,7 @@ const ThemeBtn = () =>
         if (darkModeStatus)
         {
             darkTheme()
+
         } else
         {
             lightTheme()
